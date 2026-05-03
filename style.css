@@ -1,0 +1,11 @@
+/* Fonte global */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+  /* fundo claro padrão Bootstrap */
+}
+
+/* Bordas arredondadas no card */
+.card {
+  border-radius: 16px;
+}
